@@ -13,7 +13,7 @@ footer {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-top: 100px;
+    margin-top: 50px;
 }
 
 main {
@@ -26,7 +26,7 @@ main {
 
 .colors {
     width: 75px;
-    border: 1px solid black;
+    border: 5px solid black;
     display: flex;
     flex-direction: column;
 
@@ -36,34 +36,34 @@ main {
     background-color: red;
     height: 50px;
     width: 75px;
+    border-bottom: 4px solid black;
 }
 
 .green {
     background-color: green;
     height: 50px;
     width: 75px;
+    border-bottom: 4px solid black;
 }
 
 .blue {
     background-color: blue;
     height: 50px;
     width: 75px;
+    border-bottom: 4px solid black;
 }
 
-.yellow {
-    background-color: yellow;
-    height: 50px;
-    width: 75px;
-}
 
 .pink {
     background-color: pink;
     height: 50px;
     width: 75px;
+    border-bottom: 4px solid black;
 }
 
 .purple {
     background-color: purple;
     height: 50px;
     width: 75px;
+    border-bottom: 4px solid black;
 }
